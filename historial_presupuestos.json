@@ -1,0 +1,140 @@
+[
+    {
+        "folio": "GDL-763",
+        "propietario": "LIC. CARLOS PEREZ Y/O A QUIEN CORRESPONDA",
+        "proyecto": "TRABAJOS DE REPARACIONES Y PINTURA CARPRO",
+        "fecha": "2026-10-07",
+        "total": 55240.2,
+        "conceptos": [
+            {
+                "num": 1,
+                "concepto": "SUMINISTRO Y APLICACIÓN DE PINTURA VINILICA MCA. COMEX PRO 1000 O SIMILAR EN COLOR BLANCO EN LAS AREAS SELECCIONADAS, INCLUYE MATERIALES, HERRAMIENTA, EQUIPO Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.",
+                "unidad": "M2",
+                "cantidad": 613.78,
+                "materiales": 45.0,
+                "mano_obra": 25.0,
+                "equipo": 5.0,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 10.0,
+                "pu": 90.0
+            }
+        ],
+        "fecha_registro": "2026-10-07 01:05:58"
+    },
+    {
+        "folio": "GDL-764",
+        "propietario": "LIC. CARLOS PEREZ Y/O A QUIEN CORRESPONDA",
+        "proyecto": "TRABAJOS DE REPARACIONES Y PINTURA CARPRO",
+        "telefono": "3312345678",
+        "fecha": "2026-10-07",
+        "total": 55240.2,
+        "conceptos": [
+            {
+                "id": "9756629f-663c-4a3e-8493-1b7254361e2b",
+                "num": 1,
+                "concepto": "SUMINISTRO Y APLICACIÓN DE PINTURA VINILICA MCA. COMEX PRO 1000 O SIMILAR EN COLOR BLANCO EN LAS AREAS SELECCIONADAS, INCLUYE MATERIALES, HERRAMIENTA, EQUIPO Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.",
+                "unidad": "M2",
+                "cantidad": 613.78,
+                "materiales": 45.0,
+                "mano_obra": 25.0,
+                "equipo": 5.0,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 10.0,
+                "pu": 90.0
+            }
+        ],
+        "fecha_registro": "2026-10-07 01:28:49"
+    },
+    {
+        "folio": "GDL-766",
+        "propietario": "ISRAEL CAMPOS Y/O A QUIEN CORRESPONDA",
+        "proyecto": "TRABAJOS DE PINTURA DE CASA",
+        "telefono": "3316199571",
+        "fecha": "2026-10-07",
+        "total": 89442.35500000001,
+        "conceptos": [
+            {
+                "id": "9756629f-663c-4a3e-8493-1b7254361e2b",
+                "num": 1,
+                "concepto": "SUMINISTRO Y APLICACIÓN DE PINTURA VINILICA MCA. COMEX PRO 1000 O SIMILAR EN COLOR BLANCO EN LAS AREAS SELECCIONADAS, INCLUYE MATERIALES, HERRAMIENTA, EQUIPO Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.",
+                "unidad": "M2",
+                "cantidad": 613.78,
+                "materiales": 55.0,
+                "mano_obra": 25.0,
+                "equipo": 5.0,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 15.0,
+                "pu": 106.25
+            },
+            {
+                "id": "fba7b87e-2dcc-4500-9af7-07c36983886e",
+                "num": 2,
+                "concepto": "TRABAJOS DE IMPERMEABILZACION DE LOSA DE AZOTEA A BASE DE IMPERMEABILIZANTE ACRILICO FIBRATADO EN COLOR BLANCO, INCLUYE: MATERIALES, HERRAMIENTA, MANO DE OBRA Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.\n",
+                "unidad": "M2",
+                "cantidad": 95.0,
+                "materiales": 96.84,
+                "mano_obra": 90.0,
+                "equipo": 9.34,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 20.0,
+                "pu": 255.03400000000002
+            },
+            {
+                "id": "d1387d4f-3c4a-4268-acbc-a985e021bea4",
+                "num": 3,
+                "concepto": "",
+                "unidad": "M2",
+                "cantidad": 0.0,
+                "materiales": 0.0,
+                "mano_obra": 0.0,
+                "equipo": 0.0,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 10.0,
+                "pu": 0.0
+            }
+        ],
+        "fecha_registro": "2026-10-07 01:42:54"
+    },
+    {
+        "folio": "GDL-765",
+        "propietario": "ISRAEL CAMPOS Y/O A QUIEN CORRESPONDA",
+        "proyecto": "TRABAJOS DE PINTURA DE CASA",
+        "ubicacion": "",
+        "anticipo": "50%",
+        "dias_ejecucion": 5,
+        "telefono": "3316199571",
+        "fecha": "2026-10-07",
+        "total": 89442.615,
+        "conceptos": [
+            {
+                "id": "9756629f-663c-4a3e-8493-1b7254361e2b",
+                "num": 1,
+                "concepto": "SUMINISTRO Y APLICACIÓN DE PINTURA VINILICA MCA. COMEX PRO 1000 O SIMILAR EN COLOR BLANCO EN LAS AREAS SELECCIONADAS, INCLUYE MATERIALES, HERRAMIENTA, EQUIPO Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.",
+                "unidad": "M2",
+                "cantidad": 613.78,
+                "materiales": 55.00000000000001,
+                "mano_obra": 25.0,
+                "equipo": 5.0,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 15.0,
+                "pu": 106.25,
+                "materiales_totales": 33757.9
+            },
+            {
+                "id": "fba7b87e-2dcc-4500-9af7-07c36983886e",
+                "num": 2,
+                "concepto": "TRABAJOS DE IMPERMEABILZACION DE LOSA DE AZOTEA A BASE DE IMPERMEABILIZANTE ACRILICO FIBRATADO EN COLOR BLANCO, INCLUYE: MATERIALES, HERRAMIENTA, MANO DE OBRA Y TODO LO NECESARIO PARA SU CORRECTA EJECUCION.\n",
+                "unidad": "M2",
+                "cantidad": 95.0,
+                "materiales": 96.84210526315789,
+                "mano_obra": 90.0,
+                "equipo": 9.34,
+                "indirectos_pct": 10.0,
+                "utilidad_pct": 20.0,
+                "pu": 255.03673684210528,
+                "materiales_totales": 9200.0
+            }
+        ],
+        "fecha_actualizacion": "2026-10-07 02:06:27"
+    }
+]
